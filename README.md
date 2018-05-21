@@ -1,2 +1,2 @@
- # fastmq
+ # mq
        fastmq
